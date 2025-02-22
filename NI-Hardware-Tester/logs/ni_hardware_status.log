@@ -1,0 +1,2 @@
+2025-02-23 00:48:53,822 - INFO - \u2705 NI Hardware Found: ['cDAQ2', 'Dev1']
+2025-02-23 00:48:54,871 - INFO - \u2705 Voltage Read from Dev1/ai0: -0.07568474860761425V
